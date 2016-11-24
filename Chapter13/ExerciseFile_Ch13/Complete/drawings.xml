@@ -1,0 +1,70 @@
+<word>
+	<letter character="F" color="0xFF0000">
+		<coords x="0" y="0" />
+		<coords x="30" y="0" />
+		<coords x="30" y="10" />
+		<coords x="10" y="10" />
+		<coords x="10" y="20" />
+		<coords x="20" y="20" />
+		<coords x="20" y="30" />
+		<coords x="10" y="30" />
+		<coords x="10" y="50" />
+		<coords x="0" y="50" />
+		<coords x="0" y="0" />
+	</letter>
+	<letter character="L" color="0x00FF00">
+		<coords x="0" y="0" />
+		<coords x="10" y="0" />
+		<coords x="10" y="40" />
+		<coords x="30" y="40" />
+		<coords x="30" y="50" />
+		<coords x="0" y="50" />
+		<coords x="0" y="0" />
+	</letter>
+	<letter character="A" color="0x0000FF">
+		<coords x="0" y="0" />
+		<coords x="30" y="0" />
+		<coords x="30" y="50" />
+		<coords x="20" y="50" />
+		<coords x="20" y="30" />
+		<coords x="10" y="30" />
+		<coords x="10" y="50" />
+		<coords x="0" y="50" />
+		<coords x="0" y="0" />
+		<coords x="10" y="10" />
+		<coords x="20" y="10" />
+		<coords x="20" y="20" />
+		<coords x="10" y="20" />
+		<coords x="10" y="10" />
+	</letter>
+	<letter character="S" color="0xFFFF00">
+		<coords x="0" y="0" />
+		<coords x="30" y="0" />
+		<coords x="30" y="10" />
+		<coords x="10" y="10" />
+		<coords x="10" y="20" />
+		<coords x="30" y="20" />
+		<coords x="30" y="50" />
+		<coords x="0" y="50" />
+		<coords x="0" y="40" />
+		<coords x="20" y="40" />
+		<coords x="20" y="30" />
+		<coords x="0" y="30" />
+		<coords x="0" y="0" />
+	</letter>
+	<letter character="H" color="0x00FFFF">
+		<coords x="0" y="0" />
+		<coords x="10" y="0" />
+		<coords x="10" y="20" />
+		<coords x="20" y="20" />
+		<coords x="20" y="0" />
+		<coords x="30" y="0" />
+		<coords x="30" y="50" />
+		<coords x="20" y="50" />
+		<coords x="20" y="30" />
+		<coords x="10" y="30" />
+		<coords x="10" y="50" />
+		<coords x="0" y="50" />
+		<coords x="0" y="0" />
+	</letter>
+</word>

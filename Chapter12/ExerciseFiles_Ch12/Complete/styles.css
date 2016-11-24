@@ -1,0 +1,23 @@
+li {
+	font-style: italic; color: #A2A2A2; leading: -2;
+}
+
+p {
+	margin-left: 100; leading: 12;
+}
+
+ul {
+	leading: 6;
+}
+
+strong {
+	font-family: Impact; font-size: 40; color: #339966;
+}
+
+a {
+	font-family: Courier; font-weight: bold;
+}
+
+a:hover {
+	color: #FF00FF;
+}
